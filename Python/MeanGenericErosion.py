@@ -16,3 +16,6 @@ def MeanGenericErosion(volumeList) :
         GESum += VolNorm(volumeList, i)
     MGE = GESum / 24
     return MGE
+
+# I need to create a script that can parse through the datasets
+# and withdraw the desired "volumeList"
