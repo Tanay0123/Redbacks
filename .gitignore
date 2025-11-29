@@ -5,3 +5,5 @@ Data/TRAIN/.ipynb_checkpoints/merged_cleaned_train_data-checkpoint.csv
 Data/TEST/.ipynb_checkpoints
 Data/TRAIN/.ipynb_checkpoints
 Data/.ipynb_checkpoints
+.ipynb_checkpoints/Poisson_Regression_Model-checkpoint.ipynb
+.ipynb_checkpoints/Poisson_Regression_Regularisation_PCA-1-checkpoint.ipynb
